@@ -61,6 +61,7 @@ Clique em qualquer arquivo abaixo para navegar diretamente para a aula correspon
 ### 📁 `09-IA-Meta-WhatsApp-e-Instagram/`
 * [`01-ecossistema-ia-meta-ads.md`](./09-IA-Meta-WhatsApp-e-Instagram/01-ecossistema-ia-meta-ads.md) — Recursos de IA da Meta (Business AI, Advantage+ Creative, WhatsApp Flows), arquitetura técnica de Agentes no WhatsApp/Instagram e otimização com **CAPI for Business Messaging** (`ctwa_clid`).
 * [`02-8-ideias-agentes-ia-meta.md`](./09-IA-Meta-WhatsApp-e-Instagram/02-8-ideias-agentes-ia-meta.md) — **8 arquiteturas e ideias práticas de Agentes de IA** para WhatsApp e Instagram (SDR Qualificador 24/7, Comment-to-DM Consultivo, Recuperador de Carrinho/Pix, Orçamento por Foto com Visão Computacional, Personal Shopper, Caçador de Intenção nos Comentários, Reativação/LTV e Copiloto do Gestor via Marketing API) com desenhos e fluxogramas.
+* [`03-deep-dive-ideia-8-copiloto-gestor.md`](./09-IA-Meta-WhatsApp-e-Instagram/03-deep-dive-ideia-8-copiloto-gestor.md) — **Raio-X Completo da Ideia 8 (Agente Copiloto do Gestor de Tráfego):** Arquitetura técnica com Meta Marketing API (`Graph API v21.0`), os 5 alertas do Modo Sentinela, System Prompt pronto, fluxo em 5 nós no n8n e geração de Token Permanente na BM.
 
 ---
 
